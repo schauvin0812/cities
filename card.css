@@ -1,0 +1,50 @@
+.cards {
+	margin: -62px;
+	margin-top: 61px;
+	margin-bottom: 30px;
+}
+
+.card {
+	display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    padding: 30px;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+    border-radius: 6px;
+    margin: 41px;
+}
+
+.card img {
+	border-radius: 6px;
+	width: 150px;
+}
+
+.card h3 {
+	font-size: 30px;
+}
+
+#imgParis {
+	width: 219px;
+}
+
+#imgBrittany {
+	width: 98px;
+}
+
+#imgVigne {
+	width: 119px;
+}
+
+#imgLoire {
+	width: 223px;
+}
+
+#imgProvence {
+	width: 83px;
+}
+
+#imgCorse {
+	width: 196px;
+}

@@ -1,0 +1,97 @@
+.cards2 {
+	display: flex;
+    align-items: stretch;
+    flex-wrap: none;
+    flex-direction: row;
+    justify-content: space-between;
+   	padding: -50px;
+   	margin: -22px;
+    margin-top: 50px;
+}
+
+.card2 {
+	flex-basis: 250px
+	flex-grow: 1;
+	margin: 13px;
+}
+
+.card2 img {
+	border-radius: 6px;
+}
+
+
+#imgVilleClose {
+	width: 300px;
+}
+
+#imgPort {
+	width: 378px;
+}
+
+#imgActivites {
+	width: 291px;
+}
+
+#imgCathedrale {
+	width: 280px;
+}
+
+#imgLaPetiteFrance {
+	width: 288px;
+}
+
+#imgQuartierEuropeen {
+	width: 261px;
+}
+
+#imgEiffel {
+	width: 318px;
+}
+
+#imgVieuxPort {
+	width: 248px;
+}
+
+#imgMarcheCentral {
+	width: 260px;
+}
+
+#imgMontmartre {
+	width: 319px;
+}
+
+#imgGarnier {
+	width: 317px;
+}
+
+#imgCalanques {
+	width: 274px;
+}
+
+#imgVelodrome {
+	width: 246px;
+}
+
+#imgVieuxLyon {
+	width: 290px;
+}
+
+#imgSaone {
+	width: 324px;
+}
+
+#imgtetedOr {
+	width: 317px;
+}
+
+#imgCapoDiFeno {
+	width: 285px;
+}
+
+#imgQuartierGenois {
+	margin-left: 25px;
+}
+
+#imgSentier {
+	width: 302px;
+}
